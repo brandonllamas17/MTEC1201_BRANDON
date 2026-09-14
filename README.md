@@ -1,4 +1,4 @@
 # MTEC1201_BRANDON
-Class repo
-A short reflection on my goals for this class
+Class repo.
+A short reflection on my goals for this class:
 I am taking this class in pursuit of my Bachelor of Technology degree in Emerging Media Technology from City Tech after obtaining my Associate of Science in Video Game Art from Bunker Hill Community College in Boston. I hope to work with the art and sound of video games and am inspired by games like The Last of Us, Elden Ring, and Minecraft. I am more focused on the art side of game development, but I am still very interested in the programming side, as well. I have worked a little bit in Unity, HTML, and Java, but not too much. I hope to learn more about adding interactive elements to my creative work. I also hope to learn how to make art in a new medium through code. I am also interested in getting more experience typing code for its use in games, websites, and other creative works. I would finally say that p5.js seems interesting and I am glad we are working with free, open-source software. 
