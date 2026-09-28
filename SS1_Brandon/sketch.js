@@ -1,6 +1,6 @@
 // Brandon L
 // Tesseract
-// The theme I am choosing to explore this semester is how three and four dimensional objects look when flattened onto a 2D canvas
+// The theme I am choosing to explore this semester is how three and four dimensional objects look when flattened onto a 2D canvas.
 // I am interested in the idea of an invisible fourth axis and how it can only be seen through representation.  
 
 function setup() {
